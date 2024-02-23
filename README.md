@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C# language
 - 💞️ I’m looking to collaborate on new and exciting projects in C# language
 - 📫 How to reach me rafal.daszczuk@gmail.com
-- ⚡ Fun fact: favourite animal - capybara 🦫
+
 
 <!---
 RafalDaszczuk/RafalDaszczuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
